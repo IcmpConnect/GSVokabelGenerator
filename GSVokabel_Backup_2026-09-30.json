@@ -1,0 +1,1824 @@
+{
+  "appVersion" : "1.0",
+  "exportDate" : "2026-09-30T17:55:40Z",
+  "totalUnits" : 27,
+  "totalVocabularyPairs" : 293,
+  "units" : [
+    {
+      "classNumber" : 3,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "7B8469ED-3F3E-4B31-8A70-B6C0DFDEAC30",
+      "pairs" : [
+        {
+          "english" : "orange",
+          "german" : "orange",
+          "id" : "EF2A7C79-46DF-4F0F-B455-2F691382533B"
+        },
+        {
+          "english" : "green",
+          "german" : "grün",
+          "id" : "7E58C0A4-758A-4B5A-BADF-32C9902F8AF2"
+        },
+        {
+          "english" : "blue",
+          "german" : "blau",
+          "id" : "9F78F503-0937-4D3F-88D0-0C6DB048FFD5"
+        },
+        {
+          "english" : "yellow",
+          "german" : "gelb",
+          "id" : "9EC790A1-FFA1-4585-AC57-8EFFF0FE6D3F"
+        },
+        {
+          "english" : "grey",
+          "german" : "grau",
+          "id" : "02AB3D6A-54AA-4EA2-A77E-09A3395E8114"
+        },
+        {
+          "english" : "red",
+          "german" : "rot",
+          "id" : "FF3C250E-5E6E-4CAE-9EAE-06C169FFDB08"
+        },
+        {
+          "english" : "pink",
+          "german" : "pink",
+          "id" : "788E58A2-B747-46A7-9B9A-178E2AFC7882"
+        },
+        {
+          "english" : "white",
+          "german" : "weiß",
+          "id" : "4B3D9924-5E07-439E-83A8-088560493FAA"
+        },
+        {
+          "english" : "black",
+          "german" : "schwarz",
+          "id" : "55F62E25-3B4A-4025-863C-A816B546E8FE"
+        },
+        {
+          "english" : "brown",
+          "german" : "braun",
+          "id" : "0CA97211-6F77-4F3B-A8DD-FF6E7C891408"
+        }
+      ],
+      "title" : "colours (part 1)",
+      "unitNumber" : "1.1",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 3,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "DA12A875-F4B5-4342-AC7D-8FEE73896067",
+      "pairs" : [
+        {
+          "english" : "one",
+          "german" : "eins",
+          "id" : "36BF4495-84CB-4F74-98BF-5270AE2DCC99"
+        },
+        {
+          "english" : "two",
+          "german" : "zwei",
+          "id" : "C3C47DE9-BB92-45DB-84A8-842A9CA539EB"
+        },
+        {
+          "english" : "three",
+          "german" : "drei",
+          "id" : "16CBEF28-45AC-4758-867F-D71BA7382394"
+        },
+        {
+          "english" : "four",
+          "german" : "vier",
+          "id" : "C5CAD62D-3A0C-41B3-BC7E-708B2860F312"
+        },
+        {
+          "english" : "five",
+          "german" : "fünf",
+          "id" : "90893E97-FA1E-4956-83DA-9968CDC02F0C"
+        },
+        {
+          "english" : "six",
+          "german" : "sechs",
+          "id" : "2BB04082-9005-4DAC-A73E-84C5D90CBB38"
+        },
+        {
+          "english" : "seven",
+          "german" : "sieben",
+          "id" : "BFA727F1-135F-4E26-8E77-6800ED706A79"
+        },
+        {
+          "english" : "eight",
+          "german" : "acht",
+          "id" : "89BFCB87-556B-4E39-B2FA-E5B5994D6D47"
+        },
+        {
+          "english" : "nine",
+          "german" : "neun",
+          "id" : "F7D45F61-5AD5-421E-A420-3BD0FC670AFB"
+        },
+        {
+          "english" : "ten",
+          "german" : "zehn",
+          "id" : "B46FD13B-A86B-4994-83EA-C9090055EADD"
+        }
+      ],
+      "title" : "numbers (part 2)",
+      "unitNumber" : "1.2",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 3,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "ADA65ABD-DE06-479E-84DD-1A0109E7DCAB",
+      "pairs" : [
+        {
+          "english" : "skateboard",
+          "german" : "das Skateboard",
+          "id" : "0E762054-1523-40FE-BB0D-C2AE293D5C9A"
+        },
+        {
+          "english" : "teddy",
+          "german" : "der Teddy",
+          "id" : "71A1679F-EBF0-4B51-BD19-F5AD70EA3FB9"
+        },
+        {
+          "english" : "car",
+          "german" : "das Auto",
+          "id" : "B024F5BD-C078-4940-84AF-5144AA2332C0"
+        },
+        {
+          "english" : "bike",
+          "german" : "das Fahrrad",
+          "id" : "71E2BB92-CCD1-42C5-864E-E6FDF33F3CAB"
+        },
+        {
+          "english" : "ball",
+          "german" : "der Ball",
+          "id" : "E890F670-819D-42DB-B553-0E9C9DD263A2"
+        },
+        {
+          "english" : "plane",
+          "german" : "das Flugzeug",
+          "id" : "57A20400-5E2E-405E-9C4F-F0E3A47EC7F7"
+        },
+        {
+          "english" : "robot",
+          "german" : "der Roboter",
+          "id" : "57B83F9D-7B0C-44B0-AAD2-CC22D264D71A"
+        }
+      ],
+      "title" : "in my room (part 3)",
+      "unitNumber" : "1.3",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 3,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "20E28B2B-0730-452D-BDD2-7ED5CBD268D4",
+      "pairs" : [
+        {
+          "english" : "book",
+          "german" : "das Buch",
+          "id" : "9ED13BD6-00EB-413B-A772-34CD02346966"
+        },
+        {
+          "english" : "chair",
+          "german" : "der Stuhl",
+          "id" : "1DC57E3A-3303-42F6-B901-47CE8FA68073"
+        },
+        {
+          "english" : "desk",
+          "german" : "der Schreibtisch",
+          "id" : "DFAE71C5-DF22-47C1-992E-F4DED690439F"
+        },
+        {
+          "english" : "glue stick",
+          "german" : "der Klebestift",
+          "id" : "8AEBB15E-8D2F-45F7-B218-4AE604862EC1"
+        },
+        {
+          "english" : "pen",
+          "german" : "der Füller",
+          "id" : "F4DB130C-44F6-4B0D-9E33-CA40F25CF138"
+        },
+        {
+          "english" : "pencil",
+          "german" : "der Bleistift",
+          "id" : "C48FD7A1-CB6D-483D-8565-FEC8BF8354E0"
+        },
+        {
+          "english" : "pencil case",
+          "german" : "das Etui",
+          "id" : "500E3356-A736-485E-82FB-F35D6B85634D"
+        },
+        {
+          "english" : "rubber",
+          "german" : "das Radiergummi",
+          "id" : "FDC813E8-58A0-4626-84C8-A9811D9E2612"
+        },
+        {
+          "english" : "ruler",
+          "german" : "das Lineal",
+          "id" : "AECA5C2D-DB35-4513-B80D-E7977464DE85"
+        },
+        {
+          "english" : "schoolbag",
+          "german" : "der Tornister",
+          "id" : "318E9850-2E63-4CB5-BCAB-B0A2B5499EB0"
+        },
+        {
+          "english" : "scissors",
+          "german" : "die Schere",
+          "id" : "E91614CB-71B6-4928-9FDD-BEFD072243C4"
+        },
+        {
+          "english" : "window",
+          "german" : "das Fenster",
+          "id" : "CD2F6A79-87F5-46DF-863C-2DF6A3320631"
+        },
+        {
+          "english" : "door",
+          "german" : "die Tür",
+          "id" : "F73D63FF-3CA7-4458-A8F0-C5A644B522A8"
+        }
+      ],
+      "title" : "school",
+      "unitNumber" : "2",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 3,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "60C0CD66-BB26-47EE-86EF-6F53A92115F1",
+      "pairs" : [
+        {
+          "english" : "lion",
+          "german" : "der Löwe",
+          "id" : "6E3C7EED-36AC-4980-A7AB-6F5E95821C10"
+        },
+        {
+          "english" : "fox",
+          "german" : "der Fuchs",
+          "id" : "0CACD170-C241-4C0A-AE1F-9BA976D766D6"
+        },
+        {
+          "english" : "rat",
+          "german" : "die Ratte",
+          "id" : "1CC799BC-48E7-4D0B-914C-D753C4968228"
+        },
+        {
+          "english" : "dog",
+          "german" : "der Hund",
+          "id" : "96811396-654E-4783-838E-DB0517DB3EED"
+        },
+        {
+          "english" : "monkey",
+          "german" : "der Affe",
+          "id" : "E8C759FF-A8DC-4DE2-82B7-EFC6A8058D72"
+        },
+        {
+          "english" : "bird",
+          "german" : "der Vogel",
+          "id" : "064E93B8-3E37-4D9D-ABC4-F9DE215E83BD"
+        },
+        {
+          "english" : "cat",
+          "german" : "die Katze",
+          "id" : "DD755542-6D78-43E1-946F-903555A2B97B"
+        },
+        {
+          "english" : "elephant",
+          "german" : "der Elefant",
+          "id" : "F9482045-88F1-45BC-849D-1B6F568EF57A"
+        },
+        {
+          "english" : "crocodile",
+          "german" : "das Krokodil",
+          "id" : "A84D825E-9424-4CD6-BA02-508E71DAAF38"
+        },
+        {
+          "english" : "snake",
+          "german" : "die Schlange",
+          "id" : "66000412-81C9-48CF-BB69-E84BB11403AE"
+        },
+        {
+          "english" : "bat",
+          "german" : "die Fledermaus",
+          "id" : "82D8821D-EF80-4DF1-B5E9-8635EA014C6F"
+        },
+        {
+          "english" : "frog",
+          "german" : "der Frosch",
+          "id" : "4AD478EF-5B7A-4178-ACF6-CE39062990E3"
+        },
+        {
+          "english" : "hippo",
+          "german" : "das Nilpferd",
+          "id" : "026A4B31-34E0-47DC-8D58-B1BB96DA87D5"
+        }
+      ],
+      "title" : "animals",
+      "unitNumber" : "3",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 3,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "01FC9C3E-0FEA-4DD2-AC1F-B5675F823A07",
+      "pairs" : [
+        {
+          "english" : "shoes",
+          "german" : "die Schuhe",
+          "id" : "17C16685-690C-46E7-AC2C-3E07C8FEC22C"
+        },
+        {
+          "english" : "T-shirt",
+          "german" : "das T-Shirt",
+          "id" : "3993587F-B472-4D05-8F89-EED0D15E770C"
+        },
+        {
+          "english" : "socks",
+          "german" : "die Socken",
+          "id" : "24F0B139-B0C2-4FFD-81FA-437D6825F857"
+        },
+        {
+          "english" : "cap",
+          "german" : "die Kappe",
+          "id" : "F1FEA82B-658A-4D6F-8640-3D6C18DE257E"
+        },
+        {
+          "english" : "trainers",
+          "german" : "die Turnschuhe",
+          "id" : "B557F84F-2076-4B77-800A-F9D78C2500F5"
+        },
+        {
+          "english" : "hat",
+          "german" : "der Hut",
+          "id" : "8C8562CC-75A4-44DF-9FB6-D42373968A0A"
+        },
+        {
+          "english" : "skirt",
+          "german" : "der Rock",
+          "id" : "38545409-779F-4F45-A80C-F539C0552638"
+        },
+        {
+          "english" : "hot",
+          "german" : "heiß",
+          "id" : "5EDF4683-787E-45C8-B91C-EC98B48EF36E"
+        }
+      ],
+      "title" : "clothes (part 1)",
+      "unitNumber" : "4.1",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 3,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "9D01ADAF-B7E2-439B-802A-4FBECA6772A1",
+      "pairs" : [
+        {
+          "english" : "pullover",
+          "german" : "der Pullover",
+          "id" : "AAC111D7-9942-45CD-9C7F-6D02484FF3EF"
+        },
+        {
+          "english" : "tights",
+          "german" : "die Strumpfhose",
+          "id" : "EAAA2A4B-E514-4DCD-BF0D-8FB173B8A481"
+        },
+        {
+          "english" : "jacket",
+          "german" : "die Jacke",
+          "id" : "2E7DE973-213E-473F-9725-44FB7426F935"
+        },
+        {
+          "english" : "woolly hat",
+          "german" : "die Wollmütze",
+          "id" : "80BEBC57-433E-4902-982E-C94E93891D7E"
+        },
+        {
+          "english" : "boots",
+          "german" : "die Stiefel",
+          "id" : "32994221-CFC8-4DD3-8956-024B766F4C17"
+        },
+        {
+          "english" : "jeans",
+          "german" : "die Jeanshose",
+          "id" : "0482DB86-5BE0-43FA-80F4-0527E5D9FA13"
+        },
+        {
+          "english" : "cold",
+          "german" : "kalt",
+          "id" : "4502D976-0818-4060-9FFB-930E18A3F669"
+        },
+        {
+          "english" : "mittens",
+          "german" : "die Handschuhe",
+          "id" : "2D507B24-86BC-45FB-BC9C-4DD50F2F5F5D"
+        }
+      ],
+      "title" : "clothes (part 2)",
+      "unitNumber" : "4.2",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 3,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "95D9B6E2-FDFD-4E2D-81DD-89D51260ADD8",
+      "pairs" : [
+        {
+          "english" : "mum",
+          "german" : "die Mama",
+          "id" : "2B80401C-85CE-4C6C-BC2D-509C90EF7DBE"
+        },
+        {
+          "english" : "dad",
+          "german" : "der Papa",
+          "id" : "DFDFCBB3-C005-4E25-B5DC-39B689151282"
+        },
+        {
+          "english" : "grandma",
+          "german" : "die Oma",
+          "id" : "43D6A732-95C9-4C3C-9C02-24AD38DCBC9E"
+        },
+        {
+          "english" : "grandpa",
+          "german" : "der Opa",
+          "id" : "254C33CF-7248-4898-815A-58C301B3DE04"
+        },
+        {
+          "english" : "sister",
+          "german" : "die Schwester",
+          "id" : "36C3CDC8-464B-4FA2-9ABD-7B4A08650B49"
+        },
+        {
+          "english" : "uncle",
+          "german" : "der Onkel",
+          "id" : "A4EB59F3-C388-4DEB-A983-BF4C40DB7415"
+        },
+        {
+          "english" : "aunt",
+          "german" : "die Tante",
+          "id" : "9AB8B01F-A1A0-458D-BD14-715F2A4A4053"
+        },
+        {
+          "english" : "brother",
+          "german" : "der Bruder",
+          "id" : "DB77F925-889B-4586-9CD1-B00B1240640D"
+        }
+      ],
+      "title" : "family",
+      "unitNumber" : "5",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 3,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "C285B580-7BB2-459D-937C-EFDEEE85231A",
+      "pairs" : [
+        {
+          "english" : "hand",
+          "german" : "die Hand",
+          "id" : "F3FC6590-5ED0-4D01-8E68-B5A2C481C416"
+        },
+        {
+          "english" : "arm",
+          "german" : "der Arm",
+          "id" : "2EABEC3C-57B3-4591-9899-FE3C4E8F7CD7"
+        },
+        {
+          "english" : "shoulder",
+          "german" : "die Schulter",
+          "id" : "3E76AE8A-1D7A-4BEE-9F7D-719DDF77DA39"
+        },
+        {
+          "english" : "head",
+          "german" : "der Kopf",
+          "id" : "2EEA2C35-9FE7-412A-A8DF-ECC6FE80D7BF"
+        },
+        {
+          "english" : "ear",
+          "german" : "das Ohr",
+          "id" : "F0BE73A0-E998-4345-A573-592DE71C7FE7"
+        },
+        {
+          "english" : "hair",
+          "german" : "die Haare",
+          "id" : "2101572B-9C01-4719-B1AD-2F68BBC8CD91"
+        },
+        {
+          "english" : "eye",
+          "german" : "das Auge",
+          "id" : "F432F13A-7A60-4701-88BD-3441FE95E15E"
+        },
+        {
+          "english" : "nose",
+          "german" : "die Nase",
+          "id" : "C3389E06-2472-4AFD-8C50-0566D5BC1471"
+        }
+      ],
+      "title" : "body (part 1)",
+      "unitNumber" : "6.1",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 3,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "8798E68C-8EF4-4F4A-80CD-01A9D99B804F",
+      "pairs" : [
+        {
+          "english" : "mouth",
+          "german" : "der Mund",
+          "id" : "8043CFF2-59B8-4195-8189-16B2A2CE503C"
+        },
+        {
+          "english" : "tooth",
+          "german" : "der Zahn",
+          "id" : "92D2AE40-8B2C-47FF-B649-60C42930AAFC"
+        },
+        {
+          "english" : "finger",
+          "german" : "die Finger",
+          "id" : "B2BA3693-02E8-4877-8E75-F49A320797E3"
+        },
+        {
+          "english" : "knee",
+          "german" : "das Knie",
+          "id" : "6E9D51B6-7554-4EFF-B963-ADD64469FD35"
+        },
+        {
+          "english" : "toe",
+          "german" : "die Zehe",
+          "id" : "2F4B6921-4C59-4AD9-9F5E-BC87DB5F3B2C"
+        },
+        {
+          "english" : "leg",
+          "german" : "das Bein",
+          "id" : "210D9613-3106-4CC7-85A6-AF31B9B7AC9A"
+        },
+        {
+          "english" : "foot",
+          "german" : "der Fuß",
+          "id" : "8AAE8702-2F62-4354-B5C1-2E7A8B9A82CC"
+        },
+        {
+          "english" : "jump",
+          "german" : "springen",
+          "id" : "3FE84BE3-E8DC-47FC-9EA9-C27E2ED0B77E"
+        },
+        {
+          "english" : "shake",
+          "german" : "schütteln",
+          "id" : "3B5D4972-6409-4857-9D42-E88018717593"
+        },
+        {
+          "english" : "stamp",
+          "german" : "stampfen",
+          "id" : "B9E86075-C486-4AA9-81D3-1D1FE2A934D1"
+        },
+        {
+          "english" : "touch",
+          "german" : "berühren",
+          "id" : "F64AF0D4-115B-46DE-A685-95F94F5E9958"
+        }
+      ],
+      "title" : "body (part 2)",
+      "unitNumber" : "6.2",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 3,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "023FCFDE-4178-45D2-BCCB-B5954FF0E2B2",
+      "pairs" : [
+        {
+          "english" : "rain",
+          "german" : "der Regen",
+          "id" : "2AEFB86D-A5CF-4BCB-928B-F2481B1952B1"
+        },
+        {
+          "english" : "snow",
+          "german" : "der Schnee",
+          "id" : "1C598D43-362A-48B7-9B71-A6545A523CF5"
+        },
+        {
+          "english" : "cloud",
+          "german" : "der Nebel",
+          "id" : "90F639A5-377B-4F2E-A70C-253FD4265BF1"
+        },
+        {
+          "english" : "fog",
+          "german" : "der Nebel",
+          "id" : "CB290C40-8DDE-4C8E-A39A-46605A778DDC"
+        },
+        {
+          "english" : "wind",
+          "german" : "der Wind",
+          "id" : "D6C1A111-6CF2-4388-8672-4FE27DC2D196"
+        },
+        {
+          "english" : "sun",
+          "german" : "die Sonne",
+          "id" : "485E3D7C-2427-4617-8865-7A55433DFF08"
+        },
+        {
+          "english" : "It's raining.",
+          "german" : "Es regnet.",
+          "id" : "F3C19F36-ABA2-4C5C-8037-845654247567"
+        },
+        {
+          "english" : "It's snowing.",
+          "german" : "Es schneit.",
+          "id" : "8796B7CF-BC61-44AC-ACFD-E55842254B0C"
+        },
+        {
+          "english" : "It's cloudy.",
+          "german" : "Es ist bewölkt.",
+          "id" : "D5C9CF15-8030-4D5C-820E-272FAEE14496"
+        },
+        {
+          "english" : "It's foggy.",
+          "german" : "Es ist nebelig.",
+          "id" : "3D7FF094-A538-4FF1-9AC6-5FE81673E46A"
+        },
+        {
+          "english" : "It's windy.",
+          "german" : "Es ist windig.",
+          "id" : "2974F2F4-68CD-4C90-BAC4-0FC45A8BDA24"
+        },
+        {
+          "english" : "It's sunny.",
+          "german" : "Es ist sonnig.",
+          "id" : "30C3B4F1-4203-44C1-AD80-A7A6866F967D"
+        }
+      ],
+      "title" : "weather",
+      "unitNumber" : "7",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 3,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "8EDF919B-2B2F-4B8A-A171-9AB8919B8289",
+      "pairs" : [
+        {
+          "english" : "pears",
+          "german" : "die Birnen",
+          "id" : "3F454BC9-7E59-4B05-A6C6-96B9D5B34475"
+        },
+        {
+          "english" : "yoghurt",
+          "german" : "der Joghurt",
+          "id" : "63C4D5A2-856A-4997-B1C1-48840D9DFFD4"
+        },
+        {
+          "english" : "carrots",
+          "german" : "die Karotten",
+          "id" : "F5E62759-D497-45FB-B28A-64B33E6F2BC4"
+        },
+        {
+          "english" : "cheese sandwich",
+          "german" : "das Käsetoast",
+          "id" : "D3AD19E0-5A02-4861-91C8-DC329B85A520"
+        },
+        {
+          "english" : "egg",
+          "german" : "das Ei",
+          "id" : "1B673D99-DCAB-45C4-8FDC-150B4C96CA83"
+        },
+        {
+          "english" : "chips",
+          "german" : "die Pommes",
+          "id" : "41318C02-CEA9-4CBA-8A42-541579BC07EF"
+        },
+        {
+          "english" : "chicken",
+          "german" : "das Huhn",
+          "id" : "305B137E-93AE-4134-812D-32890125399C"
+        },
+        {
+          "english" : "tomato soup",
+          "german" : "die Tomatensuppe",
+          "id" : "A52067E1-B997-43DF-A902-85BDC3A5D436"
+        },
+        {
+          "english" : "I'm hungry.",
+          "german" : "Ich habe Hunger.",
+          "id" : "C41E839C-A8D6-4D55-8E66-AB421AD252B9"
+        }
+      ],
+      "title" : "time to eat (part 1)",
+      "unitNumber" : "8.1",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 3,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "8B869427-4972-498D-8839-045DD9009DFE",
+      "pairs" : [
+        {
+          "english" : "rice",
+          "german" : "der Reis",
+          "id" : "BFA8B91B-52E6-403A-957F-375B02FCD16F"
+        },
+        {
+          "english" : "apples",
+          "german" : "die Äpfel",
+          "id" : "9978166E-46F1-4396-A504-C2E4F1BB256C"
+        },
+        {
+          "english" : "broccoli",
+          "german" : "der Brokkoli",
+          "id" : "70D23331-1E58-4963-914C-DF57C0EFF44C"
+        },
+        {
+          "english" : "potatoes",
+          "german" : "die Kartoffeln",
+          "id" : "55F0CFAC-2F08-48AE-8B33-E4EC8D7DAA91"
+        },
+        {
+          "english" : "fish",
+          "german" : "der Fisch",
+          "id" : "B3B0086B-0E17-4624-A201-A3F9A5325AFB"
+        },
+        {
+          "english" : "peas",
+          "german" : "die Erbsen",
+          "id" : "488DD4CD-DAA5-42CF-9E6C-64B16267ECE3"
+        },
+        {
+          "english" : "oranges",
+          "german" : "die Orangen",
+          "id" : "CDB01E61-57C8-4B23-A911-267201A64994"
+        },
+        {
+          "english" : "muesli bar",
+          "german" : "der Müsliriegel",
+          "id" : "5D5CEC7B-F37C-4D60-900C-43591B00710C"
+        },
+        {
+          "english" : "Are you hungry?",
+          "german" : "Bist du hungrig?",
+          "id" : "961ABD4C-25B4-44B4-9B7D-A709204BFE52"
+        }
+      ],
+      "title" : "time to eat (part 2)",
+      "unitNumber" : "8.2",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 3,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "3C7FC1EC-E19D-4AD0-814D-F48588264C69",
+      "pairs" : [
+        {
+          "english" : "pig",
+          "german" : "das Schwein",
+          "id" : "425FAD49-24F0-440F-9480-9345C4F8FB28"
+        },
+        {
+          "english" : "rabbit",
+          "german" : "der Hase, das Kaninchen",
+          "id" : "398AEDD2-FFE5-4886-A7EB-3253AF1E96CA"
+        },
+        {
+          "english" : "dog",
+          "german" : "der Hund",
+          "id" : "948BCCED-BB66-40E1-8E7F-15C1049AB721"
+        },
+        {
+          "english" : "cat",
+          "german" : "die Katze",
+          "id" : "883CFD5E-28B2-43EE-A97D-EE1D345847E7"
+        },
+        {
+          "english" : "sheep",
+          "german" : "das Schaf",
+          "id" : "C66CBC8C-C0BD-4CD9-AC1D-81536D7E346B"
+        },
+        {
+          "english" : "earthworm",
+          "german" : "der Regenwurm",
+          "id" : "FF018C4F-28F5-4DCE-8705-B4D43C9F45DB"
+        },
+        {
+          "english" : "hen",
+          "german" : "die Henne",
+          "id" : "79ABD856-F549-464A-8D01-52C77F18F4E7"
+        },
+        {
+          "english" : "bee",
+          "german" : "die Biene",
+          "id" : "72916D43-8002-4F2D-AF13-B5DE14FFCF1F"
+        },
+        {
+          "english" : "cow",
+          "german" : "die Kuh",
+          "id" : "0D69591C-6A0A-4877-83C7-CCCDCF5D9114"
+        },
+        {
+          "english" : "duck",
+          "german" : "die Ente",
+          "id" : "1DF1E084-62AD-4B9E-A345-A3165561DC44"
+        },
+        {
+          "english" : "horse",
+          "german" : "das Pferd",
+          "id" : "FF61A827-03CA-43B4-B68A-ADC3482549CC"
+        }
+      ],
+      "title" : "on the farm",
+      "unitNumber" : "9",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 4,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "22B639B9-3141-4FE9-B3A3-A809A863EE0F",
+      "pairs" : [
+        {
+          "english" : "board",
+          "german" : "die Tafel",
+          "id" : "B87F909C-B258-4745-96E1-F3C15F9E2441"
+        },
+        {
+          "english" : "chair",
+          "german" : "der Stuhl",
+          "id" : "874648EC-2631-400C-AF67-3976B643DDFE"
+        },
+        {
+          "english" : "desk",
+          "german" : "der Schreibtisch \/ die Schulbank",
+          "id" : "B4E03511-8FE6-4F09-8729-5A0D0107C91F"
+        },
+        {
+          "english" : "window",
+          "german" : "das Fenster",
+          "id" : "22F2A04E-15F8-46F6-864E-50A7956D5460"
+        },
+        {
+          "english" : "rubber",
+          "german" : "das Radiergummi \/ der Radiergummi",
+          "id" : "1D15F1CA-577F-441A-9593-672F430E0DF2"
+        },
+        {
+          "english" : "pencil",
+          "german" : "der Bleistift",
+          "id" : "6B2E18FB-9804-4506-8EB7-8DB88F32A466"
+        },
+        {
+          "english" : "book",
+          "german" : "das Buch",
+          "id" : "9E64CB63-5611-4AB3-A1FC-73AB5F218E9B"
+        },
+        {
+          "english" : "scissors",
+          "german" : "die Schere",
+          "id" : "79826D81-56A0-4156-AD22-9679FFF2EC89"
+        },
+        {
+          "english" : "ruler",
+          "german" : "das Lineal",
+          "id" : "C9CB26EB-D7F6-4089-964D-45B4F688E8A5"
+        },
+        {
+          "english" : "pen",
+          "german" : "der Stift \/ der Füller",
+          "id" : "AE19537C-0B58-45F4-BB07-60A1AEAEE68B"
+        },
+        {
+          "english" : "schoolbag",
+          "german" : "die Schultasche",
+          "id" : "08F9B352-BA45-40DA-8E33-7030D4F43C59"
+        },
+        {
+          "english" : "glue stick",
+          "german" : "der Klebestift",
+          "id" : "EC0F885E-EB14-4B85-8F83-B202A227ADDD"
+        },
+        {
+          "english" : "favourite subject",
+          "german" : "das Lieblingsfach",
+          "id" : "3F98A125-E4CC-4F14-A70B-E95DD40C9EBC"
+        }
+      ],
+      "title" : "school is cool",
+      "unitNumber" : "0",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 4,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "26CA7913-859C-4AA0-9F4A-AB885334D3C9",
+      "pairs" : [
+        {
+          "english" : "hamster",
+          "german" : "der Hamster",
+          "id" : "875BEDEB-8E18-4455-A694-C24C364AF492"
+        },
+        {
+          "english" : "cat",
+          "german" : "die Katze",
+          "id" : "B8969C58-3610-45D8-B6CC-FA5871F59600"
+        },
+        {
+          "english" : "fish",
+          "german" : "der Fisch",
+          "id" : "4FDF5839-3990-41E2-8343-99E57B2333D8"
+        },
+        {
+          "english" : "dog",
+          "german" : "der Hund",
+          "id" : "6E8C579B-C3FC-42A3-B745-58A0C54B308B"
+        },
+        {
+          "english" : "guinea pig",
+          "german" : "das Meerschweinchen",
+          "id" : "4C9ACDC2-9BC0-496F-A39F-196AF372ACC8"
+        },
+        {
+          "english" : "rabbit",
+          "german" : "der Hase",
+          "id" : "7DB90E66-828D-46CA-AF87-B5740E4A8AF0"
+        },
+        {
+          "english" : "tortoise",
+          "german" : "die Schildkröte",
+          "id" : "DE1289CF-32A1-47E2-AC05-9781836E585B"
+        },
+        {
+          "english" : "mouse \/ mice",
+          "german" : "die Maus \/ die Mäuse",
+          "id" : "22724578-48CD-4F38-9F8B-743CF5B3BBC5"
+        },
+        {
+          "english" : "snake",
+          "german" : "die Schlange",
+          "id" : "BBD83065-6F0C-4BAF-9217-3F4083F82A76"
+        },
+        {
+          "english" : "budgie",
+          "german" : "der Wellensittich",
+          "id" : "3FB4BC6C-4728-4BA6-B28A-2215080F2972"
+        },
+        {
+          "english" : "rats",
+          "german" : "die Ratten",
+          "id" : "7DFE64E6-16EB-49F9-90D4-A6FA6EE0297B"
+        },
+        {
+          "english" : "pony",
+          "german" : "das Pony",
+          "id" : "9E5E151B-7B38-4A17-B47B-3240AF4E7A3A"
+        },
+        {
+          "english" : "spider",
+          "german" : "die Spinne",
+          "id" : "DAEF2BEF-2C03-47C1-B3AD-73082B900782"
+        }
+      ],
+      "title" : "pets and other animals",
+      "unitNumber" : "1",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 4,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "E6BAACC2-7CF9-48F7-B90D-5FC438DFE374",
+      "pairs" : [
+        {
+          "english" : "hospital",
+          "german" : "das Krankenhaus",
+          "id" : "76D9F326-E227-4E8A-BF5C-AD0D7E004790"
+        },
+        {
+          "english" : "museum",
+          "german" : "das Museum",
+          "id" : "7690813F-10DA-4D89-9CBE-BDBFC8C8B324"
+        },
+        {
+          "english" : "cinema",
+          "german" : "das Kino",
+          "id" : "DE8BD70B-5DD7-4338-AD07-C5B591C26335"
+        },
+        {
+          "english" : "zoo",
+          "german" : "der Zoo",
+          "id" : "EB1C7EC6-F885-431F-8688-FA5509DA9CBC"
+        },
+        {
+          "english" : "library",
+          "german" : "die Bücherei",
+          "id" : "6EEE61AC-8875-4443-A191-74C2FC80A99B"
+        },
+        {
+          "english" : "post office",
+          "german" : "die Post",
+          "id" : "A6550AFE-5813-46F2-9AC4-DC7F940354F7"
+        },
+        {
+          "english" : "sweet shop",
+          "german" : "der Süßigkeitenladen",
+          "id" : "F727C4E1-28A2-4075-8689-712682C9854D"
+        },
+        {
+          "english" : "playground",
+          "german" : "der Spielplatz",
+          "id" : "0EBCE34A-25D5-4029-890B-5D5DF2D6D098"
+        },
+        {
+          "english" : "bus stop",
+          "german" : "die Bushaltestelle",
+          "id" : "99D5F890-7A63-4FA6-8BB4-A17A1636E7E1"
+        },
+        {
+          "english" : "train station",
+          "german" : "der Bahnhof",
+          "id" : "D61B1414-D4EB-4464-859B-5A7B3E2EAF08"
+        },
+        {
+          "english" : "swimming pool",
+          "german" : "das Schwimmbad",
+          "id" : "BC872423-15CB-4895-B040-423B28E9C948"
+        },
+        {
+          "english" : "supermarket",
+          "german" : "der Supermarkt",
+          "id" : "3D9FA335-7339-4FC0-89FF-AC3BA34D956A"
+        },
+        {
+          "english" : "restaurant",
+          "german" : "Restaurant\/Hotel",
+          "id" : "F49F3BE3-7500-40D0-865A-809B7730C811"
+        }
+      ],
+      "title" : "In town (part 1)",
+      "unitNumber" : "2.1",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 4,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "92A9EBB0-2FC2-4E96-AA27-0827907C147B",
+      "pairs" : [
+        {
+          "english" : "turn left",
+          "german" : "links abbiegen",
+          "id" : "F0ED0808-A44F-423E-979F-32170F9ACC6F"
+        },
+        {
+          "english" : "between",
+          "german" : "zwischen",
+          "id" : "04378891-1F09-4BB9-AE25-ED6C66465336"
+        },
+        {
+          "english" : "go straight on",
+          "german" : "gehe geradeaus",
+          "id" : "99FC9DC7-53F9-4357-A9D2-5005D4E763CE"
+        },
+        {
+          "english" : "go across",
+          "german" : "gehe über",
+          "id" : "7A79DB09-52B0-426B-9D88-2B8AE9450598"
+        },
+        {
+          "english" : "behind",
+          "german" : "hinter",
+          "id" : "E204D22E-798C-4E40-9AD8-8D67A28025EF"
+        },
+        {
+          "english" : "next to",
+          "german" : "neben",
+          "id" : "1DC98A32-715D-438E-96D2-9D77FB83A7FF"
+        },
+        {
+          "english" : "opposite",
+          "german" : "gegenüber",
+          "id" : "928D1281-8BC1-48D9-BDBE-2F9E6798A8B8"
+        },
+        {
+          "english" : "turn right",
+          "german" : "rechts abbiegen",
+          "id" : "706253B3-C34B-4C42-8947-1FAC436E8403"
+        },
+        {
+          "english" : "in front of",
+          "german" : "vor",
+          "id" : "04D1BC26-4DB6-4943-9449-45418D616F91"
+        },
+        {
+          "english" : "bridge",
+          "german" : "die Brücke",
+          "id" : "C82CDB32-AD11-43A2-B26D-5AE6E69DDC75"
+        }
+      ],
+      "title" : "In town (part 2)",
+      "unitNumber" : "2.2",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 4,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "2293BD70-7A15-4707-937D-F70FD27E83EC",
+      "pairs" : [
+        {
+          "english" : "party",
+          "german" : "das Fest \/ die Party",
+          "id" : "79E6255D-99E3-4659-A00C-4D53A4A30EE1"
+        },
+        {
+          "english" : "present",
+          "german" : "das Geschenk",
+          "id" : "14EA6AC0-15D4-47F7-A162-E496FBF734F0"
+        },
+        {
+          "english" : "invitation",
+          "german" : "die Einladung",
+          "id" : "1F4755D2-06B3-44F1-B08B-493E78DE7031"
+        },
+        {
+          "english" : "cake",
+          "german" : "der Kuchen",
+          "id" : "9B95F2C3-CEEB-43E1-8EB1-1D694C9A80F7"
+        },
+        {
+          "english" : "spring",
+          "german" : "der Frühling",
+          "id" : "52D2831B-6DCD-408C-B2E0-80F2C2CDEF2C"
+        },
+        {
+          "english" : "summer",
+          "german" : "der Sommer",
+          "id" : "0BE9FA29-D0D9-47B7-9566-6361AB0EF596"
+        },
+        {
+          "english" : "autumn",
+          "german" : "der Herbst",
+          "id" : "15AAD314-E6EF-4FA8-B8C6-D218FBC1EA59"
+        },
+        {
+          "english" : "winter",
+          "german" : "der Winter",
+          "id" : "23455D0D-301E-4BEE-AC9E-43FF08C8BC4E"
+        },
+        {
+          "english" : "seasons",
+          "german" : "die Jahreszeiten",
+          "id" : "45E001CA-A19D-40FC-8DC4-7F335FA046C3"
+        }
+      ],
+      "title" : "birthday",
+      "unitNumber" : "3.1",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 4,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "251AFAB9-8303-4DF1-B950-A9E5CED4E10E",
+      "pairs" : [
+        {
+          "english" : "January",
+          "german" : "Januar",
+          "id" : "B310C513-9517-495A-8492-D703D0163D01"
+        },
+        {
+          "english" : "February",
+          "german" : "Februar",
+          "id" : "DD1F4BBD-ED8E-4466-B4E0-B79FE3EF40E2"
+        },
+        {
+          "english" : "March",
+          "german" : "März",
+          "id" : "1185D8E8-529E-400E-A493-828304302D78"
+        },
+        {
+          "english" : "April",
+          "german" : "April",
+          "id" : "F7E21254-C18E-4D7E-A214-56A632351A68"
+        },
+        {
+          "english" : "May",
+          "german" : "Mai",
+          "id" : "809E3F6B-7487-4BE0-8633-126741893A64"
+        },
+        {
+          "english" : "June",
+          "german" : "Juni",
+          "id" : "318D3EBD-71F7-43ED-8599-C04F6D12845F"
+        },
+        {
+          "english" : "July",
+          "german" : "Juli",
+          "id" : "FCE38AAD-F53A-43C4-AB60-F0CF68FB6B71"
+        },
+        {
+          "english" : "August",
+          "german" : "August",
+          "id" : "16DB9310-F3AD-44B0-9D9A-C5727F64D56F"
+        },
+        {
+          "english" : "September",
+          "german" : "September",
+          "id" : "52B9E5D8-F6C8-4E50-85E5-5BEBDF1DD7BD"
+        },
+        {
+          "english" : "October",
+          "german" : "Oktober",
+          "id" : "3D2B7673-86C3-4F1D-84DE-871B107D28BA"
+        },
+        {
+          "english" : "November",
+          "german" : "November",
+          "id" : "6C3575BE-E18E-49D4-BD49-F5CEC44C932C"
+        },
+        {
+          "english" : "December",
+          "german" : "Dezember",
+          "id" : "4C518948-A1DD-4CBE-BDAA-5CA49A45254B"
+        }
+      ],
+      "title" : "the year",
+      "unitNumber" : "3.2",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 4,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "B4E2D0DF-DBF7-43B8-8BAE-D61A4002C0D0",
+      "pairs" : [
+        {
+          "english" : "ten",
+          "german" : "Zehn",
+          "id" : "7DC1AC22-8269-440A-A025-BC25D73248E3"
+        },
+        {
+          "english" : "twenty",
+          "german" : "Zwanzig",
+          "id" : "59A3D67F-3864-4471-AECA-33196ADB6D14"
+        },
+        {
+          "english" : "thirty",
+          "german" : "Dreißig",
+          "id" : "B70D33E6-70F0-479B-9791-5A237C02C845"
+        },
+        {
+          "english" : "forty",
+          "german" : "Vierzig",
+          "id" : "A749A7C9-68BC-40B2-A9F4-639EF58B7B9E"
+        },
+        {
+          "english" : "fifty",
+          "german" : "Fünfzig",
+          "id" : "750D55C4-1934-44F0-B90A-6F50BFA8FCDD"
+        },
+        {
+          "english" : "sixty",
+          "german" : "Sechzig",
+          "id" : "5B2A76CD-3A2C-4642-B6EF-1B351499C5B4"
+        },
+        {
+          "english" : "seventy",
+          "german" : "Siebzig",
+          "id" : "BCC56342-0F1F-42DA-A82D-A8008CBD8DD3"
+        },
+        {
+          "english" : "eighty",
+          "german" : "Achtzig",
+          "id" : "47142348-9107-436C-9D00-F287232BE927"
+        },
+        {
+          "english" : "ninety",
+          "german" : "Neunzig",
+          "id" : "101FE7B2-213F-4897-81FF-0B263BC525A2"
+        },
+        {
+          "english" : "a hundred",
+          "german" : "Einhundert",
+          "id" : "2AD85126-C652-4BAC-A195-ABD3586F8144"
+        }
+      ],
+      "title" : "shopping",
+      "unitNumber" : "4",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 4,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "2CA2BEB7-280B-4A60-92D7-4A6510718163",
+      "pairs" : [
+        {
+          "english" : "sail a boat",
+          "german" : "ein Boot segeln",
+          "id" : "F67D0B79-E4A2-4D63-A044-FFF3D806ADD8"
+        },
+        {
+          "english" : "ride a bike",
+          "german" : "Fahrrad fahren",
+          "id" : "919ECF34-CF3B-4E13-9707-F5416462B78B"
+        },
+        {
+          "english" : "feed animals",
+          "german" : "Tiere füttern",
+          "id" : "0D63FC66-5240-43DD-8CE4-A447F715AEAF"
+        },
+        {
+          "english" : "build a robot",
+          "german" : "einen Roboter bauen",
+          "id" : "D3C4323A-EFBA-4AA7-957E-807AC419F3D5"
+        },
+        {
+          "english" : "dance",
+          "german" : "tanzen",
+          "id" : "C03FD1EA-E9BD-4464-AB94-208046515D09"
+        },
+        {
+          "english" : "play with friends",
+          "german" : "mit Freunden spielen",
+          "id" : "46383FCB-66EF-439B-9B09-79903BCC8386"
+        },
+        {
+          "english" : "cook",
+          "german" : "kochen",
+          "id" : "978CFE76-C34F-4515-9DB4-D60330726C50"
+        },
+        {
+          "english" : "fly a kite",
+          "german" : "einen Drachen steigen lassen",
+          "id" : "E38476EC-DB22-4D8C-B024-987066C739AA"
+        },
+        {
+          "english" : "skate",
+          "german" : "skaten",
+          "id" : "89A05614-DCE4-4F04-AEFB-EDFA693DB25C"
+        },
+        {
+          "english" : "play football",
+          "german" : "Fußball spielen",
+          "id" : "41181E28-277E-4299-BAED-4BD4D72E562F"
+        },
+        {
+          "english" : "snorkel",
+          "german" : "schnorcheln",
+          "id" : "B7918CB0-5BCA-4E81-8754-EB9486DA3445"
+        },
+        {
+          "english" : "climb",
+          "german" : "klettern",
+          "id" : "E412A53D-2C00-4CB8-8334-B8A42D204718"
+        },
+        {
+          "english" : "play an instrument",
+          "german" : "ein Instrument spielen",
+          "id" : "9EB5F87E-13E1-4B7B-B9BC-79F7A851EFCA"
+        },
+        {
+          "english" : "draw",
+          "german" : "zeichnen",
+          "id" : "34A93ED0-5B9C-49C8-9F71-86FCE2EF0B85"
+        },
+        {
+          "english" : "swim",
+          "german" : "schwimmen",
+          "id" : "D01B583E-6C29-458E-83B9-654F4A5A5BDA"
+        },
+        {
+          "english" : "paint a picture",
+          "german" : "ein Bild malen",
+          "id" : "C0F2EA4F-F6D0-4242-9ADF-0CAF72149ABB"
+        }
+      ],
+      "title" : "free time (part 1)",
+      "unitNumber" : "5.1",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 4,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "C992194E-8E0E-4307-8297-8D713D45D13E",
+      "pairs" : [
+        {
+          "english" : "go on holiday",
+          "german" : "in den Urlaub fahren",
+          "id" : "22625E5E-F27B-4CFC-988C-2D4862099F23"
+        },
+        {
+          "english" : "do homework",
+          "german" : "Hausaufgaben machen",
+          "id" : "EAF5234C-BA28-4849-9730-5706006474B7"
+        },
+        {
+          "english" : "wash the dishes",
+          "german" : "das Geschirr spülen",
+          "id" : "5C30D303-58AD-451D-BE08-CF7105E23904"
+        },
+        {
+          "english" : "help in the kitchen",
+          "german" : "in der Küche helfen",
+          "id" : "6DEBC413-95D0-43A2-8331-3013DE07093D"
+        },
+        {
+          "english" : "read the newspaper",
+          "german" : "Zeitung lesen",
+          "id" : "11F66B72-9F9F-49F2-BBAB-144FE3C7BD0D"
+        },
+        {
+          "english" : "have dinner",
+          "german" : "zu Abend essen",
+          "id" : "CC14CD9B-6A08-4441-AE62-458DC6CD5073"
+        },
+        {
+          "english" : "lay the table",
+          "german" : "den Tisch decken",
+          "id" : "B887DFE7-754E-42D0-B582-2BCA44074A35"
+        },
+        {
+          "english" : "take out the rubbish",
+          "german" : "den Müll rausbringen",
+          "id" : "8958525D-BA0D-4105-B461-283ACF85720A"
+        },
+        {
+          "english" : "work in the garden",
+          "german" : "im Garten arbeiten",
+          "id" : "327BA162-3979-467D-A361-08F51D7436F2"
+        },
+        {
+          "english" : "write an email",
+          "german" : "eine E-Mail schreiben",
+          "id" : "5033D378-C9FB-429E-86CE-4831A5F10478"
+        }
+      ],
+      "title" : "free time (part 2)",
+      "unitNumber" : "5.2",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 4,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "C4362F60-8710-4D94-87D1-BD3E2912E6D0",
+      "pairs" : [
+        {
+          "english" : "angry",
+          "german" : "wütend",
+          "id" : "1F48B0D7-716A-487A-BA39-C9256EB31685"
+        },
+        {
+          "english" : "sad",
+          "german" : "traurig",
+          "id" : "B5833A8F-4E43-4354-A91F-A894A76A38EE"
+        },
+        {
+          "english" : "tired",
+          "german" : "müde",
+          "id" : "D4AF4AD5-0262-4EF3-A9E6-AA8513A9F6AB"
+        },
+        {
+          "english" : "scared",
+          "german" : "ängstlich",
+          "id" : "CF2A5451-C321-4FC0-8F7A-46E91AA3FEB8"
+        },
+        {
+          "english" : "happy",
+          "german" : "glücklich",
+          "id" : "5299F985-CB95-4FBB-B568-7B34B633F82D"
+        },
+        {
+          "english" : "bored",
+          "german" : "gelangweilt",
+          "id" : "C6E51710-4EFB-4A3C-957A-4558DF53A757"
+        },
+        {
+          "english" : "nervous",
+          "german" : "nervös",
+          "id" : "4770C895-6437-4655-B835-0E39BE8DC1B4"
+        },
+        {
+          "english" : "excited",
+          "german" : "aufgeregt",
+          "id" : "51F6C79E-533D-42FB-92A2-9A1FDE5E9CB8"
+        },
+        {
+          "english" : "relaxed",
+          "german" : "entspannt",
+          "id" : "73F4060C-BEE5-4CA1-B3C6-93739E62EF13"
+        }
+      ],
+      "title" : "feelings",
+      "unitNumber" : "6",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 4,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "01AAE4D8-FCC2-4468-AA22-18C31A7A2F3B",
+      "pairs" : [
+        {
+          "english" : "eight o'clock",
+          "german" : "acht Uhr",
+          "id" : "29B705BD-9532-4DAE-99D8-C65644D78A66"
+        },
+        {
+          "english" : "quarter to twelve",
+          "german" : "Viertel vor zwölf",
+          "id" : "F3571CBF-F4B5-4084-8818-472F3F316069"
+        },
+        {
+          "english" : "half past nine",
+          "german" : "halb neun",
+          "id" : "4ED1D91D-4BA4-4BF8-B315-E2A046076815"
+        },
+        {
+          "english" : "quarter past eight",
+          "german" : "viertel nach acht",
+          "id" : "B8562101-A8C0-41E7-8DA1-4073E7F84F8C"
+        },
+        {
+          "english" : "half past one",
+          "german" : "halb eins",
+          "id" : "073F80D1-144D-4D8E-94A4-CFECE258918A"
+        },
+        {
+          "english" : "quarter past one",
+          "german" : "viertel nach eins",
+          "id" : "AA04EC36-8A09-4F66-A5F6-647E956ABB78"
+        },
+        {
+          "english" : "ten o'clock",
+          "german" : "zehn Uhr",
+          "id" : "CA0D8729-B10D-4F5B-9413-E413FEBC73E6"
+        },
+        {
+          "english" : "quarter past five",
+          "german" : "viertel nach fünf",
+          "id" : "6BD90D4A-9366-4CA1-B08E-596F176EC9AE"
+        },
+        {
+          "english" : "two o'clock",
+          "german" : "zwei Uhr",
+          "id" : "1CE3633C-36E1-4A04-B968-FB060B162906"
+        },
+        {
+          "english" : "half past four",
+          "german" : "halb vier",
+          "id" : "CBD4AF05-B66D-46AE-8D3B-01E2EC1063C3"
+        },
+        {
+          "english" : "quarter to seven",
+          "german" : "viertel vor sieben",
+          "id" : "30D0BCB0-61D0-4209-B059-EA5E8265B0FD"
+        },
+        {
+          "english" : "quarter past eleven",
+          "german" : "viertel nach elf",
+          "id" : "5E70BDF2-4DAA-4A8A-A2AD-91F097BAFA2C"
+        }
+      ],
+      "title" : "my day",
+      "unitNumber" : "7",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 4,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "8A1D7D37-73D1-4FB8-9D7F-046D779863EA",
+      "pairs" : [
+        {
+          "english" : "attic",
+          "german" : "der Dachboden",
+          "id" : "608D9FD0-5438-4113-A60D-75B8E99B634B"
+        },
+        {
+          "english" : "wardrobe",
+          "german" : "der Kleiderschrank",
+          "id" : "37BD19AF-4484-4109-A8E5-9CD49921B87F"
+        },
+        {
+          "english" : "floor",
+          "german" : "der Fußboden",
+          "id" : "EC5AD9D9-F604-4734-A109-4F60DABA986A"
+        },
+        {
+          "english" : "bed",
+          "german" : "das Bett",
+          "id" : "506252DF-B827-470A-9911-4EAC63051633"
+        },
+        {
+          "english" : "bathroom",
+          "german" : "das Badezimmer",
+          "id" : "253E7CB0-2439-4AB6-8160-ED650B08ABF3"
+        },
+        {
+          "english" : "washbasin",
+          "german" : "das Waschbecken",
+          "id" : "F5FCD775-EB4E-429B-9C6D-613326FD8D92"
+        },
+        {
+          "english" : "stairs",
+          "german" : "die Treppe",
+          "id" : "BB771A8E-D818-4664-901A-84CF4BC9BB3E"
+        },
+        {
+          "english" : "bedroom",
+          "german" : "das Schlafzimmer",
+          "id" : "32040453-2C32-4076-B492-7D64D4BD8C96"
+        },
+        {
+          "english" : "kitchen",
+          "german" : "die Küche",
+          "id" : "AF939A89-48DB-480D-A71E-1D4A50C3B22A"
+        },
+        {
+          "english" : "table",
+          "german" : "der Tisch",
+          "id" : "AD7566AE-AD07-4C80-A162-50E877F16807"
+        },
+        {
+          "english" : "hall",
+          "german" : "der Flur",
+          "id" : "08403AC6-A072-4268-8B89-860ABC59586C"
+        },
+        {
+          "english" : "sofa",
+          "german" : "das Sofa",
+          "id" : "578B131B-83F9-4C00-BBE0-3DC940F8BEC3"
+        },
+        {
+          "english" : "lamp",
+          "german" : "die Lampe",
+          "id" : "97BD5495-E9A4-47D4-8584-B96543E93C8A"
+        },
+        {
+          "english" : "living room",
+          "german" : "das Wohnzimmer",
+          "id" : "3A99F4F9-417B-4F5C-B780-6046240C972F"
+        }
+      ],
+      "title" : "at home",
+      "unitNumber" : "8",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    },
+    {
+      "classNumber" : 4,
+      "deadlineDay" : "Freitag",
+      "homeworkEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "homeworkGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben.",
+      "id" : "9D7E118C-493B-438A-AF7E-DB4639475814",
+      "pairs" : [
+        {
+          "english" : "tea",
+          "german" : "der Tee",
+          "id" : "F86DEB50-C8AC-4300-8E80-C44483E7A289"
+        },
+        {
+          "english" : "soup",
+          "german" : "die Suppe",
+          "id" : "C23C7CE4-029E-49DE-95E9-B29DAEDC820B"
+        },
+        {
+          "english" : "beans",
+          "german" : "die Bohnen",
+          "id" : "9C7BF89D-819C-4CB2-9E42-D55A2B49053B"
+        },
+        {
+          "english" : "mineral water",
+          "german" : "das Mineralwasser",
+          "id" : "30D3C6F3-AB72-4C66-AF3E-6D1F3E514479"
+        },
+        {
+          "english" : "cake",
+          "german" : "der Kuchen",
+          "id" : "B1E06D5B-24C8-4B1F-9496-AC03036DAC55"
+        },
+        {
+          "english" : "coffee",
+          "german" : "der Kaffee",
+          "id" : "C4B242C5-177E-4AB4-B082-39F0E2518E5B"
+        },
+        {
+          "english" : "sausages",
+          "german" : "die Würstchen",
+          "id" : "BD632DF7-EC08-460A-A062-6E8D24BA3E5B"
+        },
+        {
+          "english" : "mixed salad",
+          "german" : "Gemischter Salat \/ der gemischte Salat",
+          "id" : "D8FFA96C-CBF8-4E9C-82D7-40D5EF8FEA2D"
+        },
+        {
+          "english" : "pie",
+          "german" : "der Kuchen",
+          "id" : "1E7BD5D7-BE89-4A63-AAE1-72BF95202E8F"
+        },
+        {
+          "english" : "peas",
+          "german" : "die Erbsen",
+          "id" : "CB339D29-EA60-449A-AE6B-2E73C889ED85"
+        },
+        {
+          "english" : "lemonade",
+          "german" : "die Limonade",
+          "id" : "7B0F355D-CE28-488B-930A-E63501E3A79E"
+        },
+        {
+          "english" : "ice cream",
+          "german" : "das Eis",
+          "id" : "259FC13A-6BC9-4316-8651-6677739D3602"
+        },
+        {
+          "english" : "nuts",
+          "german" : "die Nüsse",
+          "id" : "DF98DD21-92C7-4DBB-ACDA-3DA456FC4417"
+        },
+        {
+          "english" : "steak",
+          "german" : "das Steak",
+          "id" : "1326D8C2-2DA8-46C2-B59F-19297EB3A808"
+        },
+        {
+          "english" : "chocolate",
+          "german" : "die Schokolade",
+          "id" : "D9ACFE99-CD8A-4A2A-AD5D-C86568FF99B5"
+        }
+      ],
+      "title" : "food and drink",
+      "unitNumber" : "9",
+      "workEnglish" : "Write the German and English words in your vocabulary booklet.\nYou have time until Friday.\nMake sure you write the words correctly.",
+      "workGerman" : "Schreibe die deutschen und englischen Wörter in dein Vokabelheft.\nDu hast bis Freitag Zeit.\nAchte darauf, die Wörter richtig abzuschreiben."
+    }
+  ]
+}

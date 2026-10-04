@@ -1,0 +1,24 @@
+# Xcode & SwiftPM Build Artifacts
+build/
+.build/
+.cache/
+.swiftpm/
+DerivedData/
+*.xcworkspace/*xcuserdatad/
+*.xcodeproj/*xcuserdatad/
+xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+
+# Distributables (Binärdateien am besten via GitHub Releases bereitstellen)
+dist/
+test_runner
+
+# macOS Systemdateien
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Lokale Scratches & Logs
+scratch/
